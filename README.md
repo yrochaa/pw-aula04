@@ -3,6 +3,7 @@
 ## Objetivos
 
 * Criar repositorio novo para Aula 04 e uma Página Biográfica em HTML.
+* Nova atividade: Na aula 08, clonar esta biografia e deixa-la mais "bonita", para isso foi usado um tema do [Bootstrap](http://getbootstrap.com.br/) e conhecimentos repassados em sala.
 
 --------
 
