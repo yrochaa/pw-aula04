@@ -32,4 +32,4 @@ Caso você esteja usando o linux, será necessário usar `./mvnw` invés de *mvn
 
 Execute em qualquer navegador web: 
 
-`http://localhost:8080/pw-aula04`
+`http://localhost:9090/exercicio`
